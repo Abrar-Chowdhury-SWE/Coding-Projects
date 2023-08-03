@@ -190,7 +190,6 @@ public class Warehouse {
     }
 
     /*
-     * Do not remove this method, it is used by Autolab
      */ 
     public Sector[] getSectors () {
         return sectors;

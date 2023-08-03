@@ -260,11 +260,4 @@ public class GameOfLife {
        
         return parent.size();
     }
-       
-       
-       
-  
-        // WRITE YOUR CODE HERE
-         // update this line, provided so that code compiles
-  
  }
